@@ -2,7 +2,7 @@
 A list of rental properties violating HB 19-1106
 				
 Boulder, CO	Permits and Licenses/Zoning	Rental Housing Licenses	How is rental housing dispersed across the city? How accessible to public transit, parks etc? Do people who live in rental properties have access to the same things people who own homes do?	https://bouldercolorado.gov/open-data
-	General Government and Community Profile/ Zoning	Affordable Housing for Low/Moderate Households		https://bouldercolorado.gov/open-data
+General Government and Community Profile/ Zoning	Affordable Housing for Low/Moderate Households		https://bouldercolorado.gov/open-data
 Boulder	Homelessness	Homelessness	nightly program attendance numbers at Boulder-based providers serving single adults experiencing homelessness	https://bouldercolorado.gov/open-data
 Denver	Affordable Housing	(IHO) Zones	availability of additional low and moderate income housing to address existing and anticipated future housing needs in Denver	
 Boulder	General Government and Community Profile	Affordable Housing	the location and websites for permanently affordable rental properties	Denver Office of Economic Development
