@@ -1,3 +1,3 @@
-# rental_property_violations
-A list of rental properties violating HB 19-1106
+# Housing Colorado
+Purpose to identify rental properties violating HB 19-1106 and fair housing laws
 
